@@ -16,8 +16,12 @@ Use the above link to download the dataset.
 
 https://public.tableau.com/views/AirBnbProject_17472952839030/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+#
+
 # Project type :-
 Data Visualization.
+
+#
 
 # Explanation :-
 
